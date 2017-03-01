@@ -8,10 +8,11 @@ Please refer ADS-Cloud-Bursting.pdf for details of use case.
 
 Files:
 =====
-
-async_server_add.py
-server_add.py - Code of Lambda function for adding a server
-server_delete.py - Code of Lambda function for deleting the server
+- ADS-Cloud-Bursting.pdf - Presentation explaining the use case, workflow and configuration
+- Cloud-bursting.mov - Recorded demo of the use case
+- async_server_add.py
+- server_add.py - Code of Lambda function for adding a server
+- server_delete.py - Code of Lambda function for deleting the server
 
 Lambda Config:
 =============
